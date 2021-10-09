@@ -4,7 +4,7 @@
 
 [:link: GlassBusinessCard](https://acarcem.github.io/glassbusinesscard/)
 
-:exclamation:[Bootstrap]('https://getbootstrap.com/')
+![Bootstrap]('https://getbootstrap.com/')
 
 [Material Icons]('https://material.io/resources/icons/?style=baseline')
 
