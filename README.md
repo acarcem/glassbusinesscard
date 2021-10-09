@@ -1,6 +1,6 @@
 # GlassBusinessCard
 
-![](https://github.com/acarcem/glassbusinesscard/blob/main/glass.gif)
+[](https://github.com/acarcem/glassbusinesscard/blob/main/glass.gif)
 
 [:link: GlassBusinessCard](https://acarcem.github.io/glassbusinesscard/)
 
