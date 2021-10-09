@@ -1,5 +1,5 @@
 # GlassBusinessCard
-![](https://github.com/acarcem/GlassBusinessCard/blob/main/glass.gif)
+:exclamation:[](https://github.com/acarcem/GlassBusinessCard/blob/main/glass.gif)
 
 [:link: GlassBusinessCard](https://acarcem.github.io/glassbusinesscard/)
 
